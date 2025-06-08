@@ -699,7 +699,6 @@ export default function LuxuryRealEstate() {
       <footer className="text-center py-8 mt-12 text-gray-600 border-t border-gray-200">
         <div className="max-w-6xl mx-auto px-5">
           <p>&copy; 2025 Luxury Real Estate Management System. All rights reserved.</p>
-          <p className="mt-2">Powered by Shravya N</p>
         </div>
       </footer>
     </div>
